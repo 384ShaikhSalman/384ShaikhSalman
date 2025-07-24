@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100%" alt="Cybersecurity Banner" />
+  <img src="https://i.imgur.com/EVbm6gZ.jpeg" width="100%" alt="Hacker Banner" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Shaikh Salman</h1>
