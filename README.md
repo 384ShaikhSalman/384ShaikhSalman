@@ -1,7 +1,5 @@
 <!-- BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/EVbm6gZ.jpeg" width="100%" alt="Hacker Banner" />
-</p>
+
 
 <h1 align="center">Hey 👋, I'm Shaikh Salman</h1>
 
