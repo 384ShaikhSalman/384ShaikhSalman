@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/klS1g4W.png" width="100%" alt="Cybersecurity Banner" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100%" alt="Cybersecurity Banner" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Shaikh Salman</h1>
@@ -14,9 +14,10 @@
 
 ### 🧾 About Me
 
-- 🎓 Computer Science Graduate |🕵️ Passionate about **Cybersecurity, Network Defense, and Threat Detection**
-- 🛠️ Experienced with **SIEM tools** like `Splunk`, `Wazuh`, and `ELK`
-- ⚔️ Skilled in analyzing logs, detecting intrusions, and simulating attacks in lab environments
+- 🎓 Computer Science Graduate | M.Sc. in Technology Management  
+- 🕵️ Passionate about **Cybersecurity, Network Defense, and Threat Detection**  
+- 🛠️ Experienced with **SIEM tools** like `Splunk`, `Wazuh`, and `ELK`  
+- ⚔️ Skilled in analyzing logs, detecting intrusions, and simulating attacks in lab environments  
 
 ---
 
@@ -37,10 +38,10 @@
 
 > I’ve built a personal lab to simulate cyber attacks, monitor threats in real-time, and analyze logs with:
 
-- 🧠 **Wazuh** + **Splunk** based SIEM setup
-- 📈 Dashboards for Brute Force, Port Scanning & Malware Detection
-- 🔁 Syslog & UFW log forwarding from Linux endpoints
-- 💡 Custom rules & alerting logic for hands-on SOC experience
+- 🧠 **Wazuh** + **Splunk** based SIEM setup  
+- 📈 Dashboards for Brute Force, Port Scanning & Malware Detection  
+- 🔁 Syslog & UFW log forwarding from Linux endpoints  
+- 💡 Custom rules & alerting logic for hands-on SOC experience  
 
 ---
 
@@ -59,7 +60,7 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourname">
+  <a href="https://www.linkedin.com/in/yourlinkedinusername">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
