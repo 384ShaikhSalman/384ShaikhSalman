@@ -1,5 +1,10 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shaikhsalman/shaikhsalman/main/image.png" alt="Shaikh Salman GitHub Banner" style="width:100%; max-width:1000px; border-radius: 10px;" />
+<p align="center">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9e3dfad-b67b-4033-8c1a-af8f756c104f" alt="Shaikh Salman GitHub Banner" width="1000" />
+</p>
+
+</p>
+
 </div>
 
 </div>
@@ -13,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Graduate Student in **Computer Science**  
-- 🛡️ SOC Analyst Intern @ **Nixsecura**  
+- 🛡️ SOC Analyst  @ **Nixsecura**  
 - 🧠 Passionate about threat detection, SIEMs, and malware analysis  
 - 🔭 Currently mastering **Splunk**, **Snort IDS**, and **Security Operations**  
 - 🗂️ Building personal projects & writing articles on cybersecurity  
@@ -53,16 +58,16 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaikhsalman/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shaikhsalman@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://shaikhsalman.github.io/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/384shaikhsalman/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:384shaikhsalman@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://384shaikhsalmantwitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://384shaikhsalman.github.io/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🧠 Certifications & Courses
-- 🎖️ Google Cybersecurity Certificate *(in-progress/complete)*
+- 🎖️ CEH Cybersecurity Certificate *(complete)*
 - 🛡️ Blue Team Level 1 *(BTL1) - TryHackMe*
 - 📜 Splunk Core Certified User *(planned/achieved)*
 
@@ -76,5 +81,5 @@
 ---
 
 ## 🐍 Fun Python One-Liner
-```python
+```python, Java, C, Bash
 print("🔐 Stay curious. Stay secure.")
